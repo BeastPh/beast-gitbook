@@ -1,2 +1,2 @@
 # beast-gitbook
-beast-gitbook
+BeastPhish - GitBook
